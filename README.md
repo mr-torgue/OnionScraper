@@ -8,7 +8,7 @@ You need Python installed. Following instructions are for linux.
 * git clone https://github.com/mr-torgue/OnionScraper.git
 * pip install scrapy
 * cd OnionScraper
-* 
+
 Replace python3.8 with your python installation. 
 
 # Usage
