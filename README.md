@@ -2,7 +2,7 @@
 Scrapes data dumps for onion links from websites like gist.github.com and pastebin.com!
 
 # Installation
-You need Python installed. Following instructions are for linux.
+You need Python installed. Following instructions are for linux. Installation in virtual environment to prevent interference.
 * virtualenv -p /usr/bin/python3.8 .virtualenv
 * source .virtualenv/bin/activate
 * git clone https://github.com/mr-torgue/OnionScraper.git
