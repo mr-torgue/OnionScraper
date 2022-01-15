@@ -25,7 +25,8 @@ class OnionPipeline(object):
 
     def close_spider(self, spider):
         self.onionfile.close()
-        self.ipfile.close()
+        #self.ipfile.close()
+        self.logfile.close()
 
     '''
     tries to find onion addresses by applying onion regex to contents.
